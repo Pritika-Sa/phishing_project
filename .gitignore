@@ -1,0 +1,16 @@
+# Datasets
+archive/
+*.csv
+
+# ML Models
+*.pkl
+*.h5
+*.pt
+*.joblib
+
+# Python
+__pycache__/
+venv/
+
+# Environment
+.env
